@@ -8,7 +8,7 @@
 ## We've 3 repositories regarding this project as follows- 
 
 ### 1.First - Sensor App 
-Link - [Sensor App Repo](https://github.com/quantechl2m/sensor_app)
+Link - [Sensor App Repo](https://github.com/quantechl2m/esp32sensor_app)
 
 ### 2.Second - Sensor Server 
 Link - [Sensor Server Repo](https://github.com/quantechl2m/esp32sensor-server)
